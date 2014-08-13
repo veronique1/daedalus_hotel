@@ -4,7 +4,7 @@
 				<div id="text_a">
 					<i class="fa fa-university"></i>
 					<p id="d">
-						LE DEADALUS hôtel à Lyon Gerland
+						LE DEADALUS hôtel à Lyon Groland
 					</p>
 					<p> 
 						A proximité du centre ville de Lyon, Cosmos Hôtel vous propose un hébergement de qualité pour un budget raisonnable. Nous vous accueillions dans une cadre moderne et confortable.
